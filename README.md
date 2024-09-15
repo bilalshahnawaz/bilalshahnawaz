@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">Frontend Developer | Open-source enthusiast | Passionate about game development and crafting engaging user experiences. | Computer Science undergrad building the future</h3>
+<h3 align="center">Frontend Developer | Open-source enthusiast | Passionate about game development and crafting engaging user experiences | Computer Science undergrad building the future</h3>
 
 - 🔭 Working on [Durb](www.durb.ca)
 - 🌱 Learning **Full-Stack Development**
