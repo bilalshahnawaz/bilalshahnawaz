@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
 <h3 align="center">Frontend Developer | Open-source Enthusiast | Passionate about Game Development</h3>
 
-- 🔭 Working on [Durb](www.durb.ca)
+- 🔭 Working on [Durb](https://www.durb.ca/team)
 - 🌱 Learning **Full-Stack Development**
 - 📫 Reach me @**bilal.shahnawaz@torontomu.ca**
 - <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" style="width: 19px; height: 19px;"> Connect with me on <a href="http://www.linkedin.com/in/bilalshahnawaz">LinkedIn</a>
